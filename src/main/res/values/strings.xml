@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">bankApp</string>
+    <string name="users">Users</string>
+    <string name="transaction">Transaction</string>
+    <string name="suryapratap">Surya Pratap - 700000</string>
+    <string name="yash_pratap_50000">Yash Pratap - 50000</string>
+    <string name="rajnarayan">Raj Narayan - 900000</string>
+    <string name="khushijain">Khushi Jain - 100000</string>
+    <string name="hiteshkumar">Hitesh Kumar - 300000</string>
+    <string name="anuragsharma">Anurag Sharma - 550000</string>
+    <string name="hiteshraj">Hitesh Sharma - 700000</string>
+    <string name="gagan">Gagan Tripathi - 700000</string>
+</resources>
